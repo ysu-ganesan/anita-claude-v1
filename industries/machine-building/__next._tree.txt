@@ -1,0 +1,10 @@
+:HL["/anita-claude-v1/_next/static/chunks/06raaeiv9tb_u.css","style"]
+:HL["/anita-claude-v1/_next/static/media/archivo_latin_wght_normal-s.p.1_q0qa17ptz5n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/anita-claude-v1/_next/static/media/ibm_plex_mono_latin_400_normal-s.p.3xdfs0-p_zi4c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/anita-claude-v1/_next/static/media/ibm_plex_mono_latin_500_normal-s.p.11q3guvgd1r20.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/anita-claude-v1/brand/emblem-96.webp","image",{"imageSrcSet":"/anita-claude-v1/brand/emblem-96.webp 96w, /anita-claude-v1/brand/emblem-192.webp 192w, /anita-claude-v1/brand/emblem-512.webp 512w","imageSizes":"30px"}]
+:HL["/anita-claude-v1/brand/emblem-96.webp","image",{"imageSrcSet":"/anita-claude-v1/brand/emblem-96.webp 96w, /anita-claude-v1/brand/emblem-192.webp 192w, /anita-claude-v1/brand/emblem-512.webp 512w","imageSizes":"44px"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"machine-building","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"industries","h":64,"c":"$Q2"}]]
+0:{"b":"F4lp1egSOe9B2kblzRZmR","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
