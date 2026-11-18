@@ -1,4 +1,4 @@
-:HL["/anita-claude-v1/_next/static/chunks/3z8edv6j35rpj.css","style"]
+:HL["/anita-claude-v1/_next/static/chunks/3l9lxb3cpmhv8.css","style"]
 :HL["/anita-claude-v1/_next/static/media/archivo_latin_wght_normal-s.p.1_q0qa17ptz5n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/anita-claude-v1/_next/static/media/ibm_plex_mono_latin_400_normal-s.p.3xdfs0-p_zi4c.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/anita-claude-v1/_next/static/media/ibm_plex_mono_latin_500_normal-s.p.11q3guvgd1r20.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 :HL["/anita-claude-v1/brand/emblem-96.webp","image",{"imageSrcSet":"/anita-claude-v1/brand/emblem-96.webp 96w, /anita-claude-v1/brand/emblem-192.webp 192w, /anita-claude-v1/brand/emblem-512.webp 512w","imageSizes":"44px"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"solutions","h":64,"c":"$Q2"}]]
-0:{"b":"YsXhMZamLVoATSS33A2gU","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"kC6U-lO2Obl1HYTE2gTUm","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
